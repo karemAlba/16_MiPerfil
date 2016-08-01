@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+
+.fondo{
+	background-image: url("../images/fondo.jpg");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	height: 600px;
+	width: 1200px;
+	margin-top: 20px;
+}
+
+.banner{
+	font-family: 'Covered By Your Grace', cursive;
+	margin-top: 150px;
+	color: green;
+	font-size: 90px;
+}
+
+.banner2{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	color:white;
+	margin-top: 40px;
+}
+
+img{
+	margin-top: 20px;
+}
+img:hover{
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+}
+
+h1{
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+	color: green;
+	margin-top: 20px;
+}
+
+h2{
+	font-size: 50px;
+	margin-top: 20px;
+	font-family: 'Lobster', cursive;
+	color: orange;
+}
+
+.imgperfil{
+	width: 300px;
+	height: 310px;
+	border: solid 2px green;
+	padding: 5px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.texto{
+	margin-top: 40px;	
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.imagenes{
+	width: 315px;
+	height: 230px;
+	border: solid 2px orange;
+	border-radius: 180px;
+	margin-top: 25px;
+	padding: 2px;
+ }
+
+ .footer{
+ 	background-color: #D0D3CF;
+ 	color: white;
+ }
+
